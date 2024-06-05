@@ -1,0 +1,59 @@
+a{
+  border: solid orange 2px;
+  background-color: coral;
+  text-decoration: none;
+  color: black;
+  border-radius: 5px;
+  font-size: 21px;
+  margin: 10px;
+  transition: 0.5s;
+  padding: 2px;
+  text-align: center;
+}
+body{
+  background: url(bg.jpg) no-repeat;
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+}
+.b-class{
+  font-size: 60px;
+  color: coral;
+}
+.r-span{
+  font-size: 45px;
+}
+.o-span{
+  font-size: 45px
+}
+a:hover{
+  background-color: white;
+}
+ul{
+  border: solid orange 4px;
+  float: left;
+  width: 133px;
+  height: 120px;
+  margin-right: 20px;
+  border-radius: 10px;
+  background-color: rgb(252, 127, 64);
+}
+.u-span{
+  font-size: 50px;
+  color: coral;
+}
+.i-span{
+  font-size: 20px;
+}
+.e-span{
+  font-size: 40px;
+  color: coral;
+}
+.id-1{
+  font-size: 30px;
+  color: coral;
+}
+.uz-span{
+  font-size: 45px;
+  color: coral;
+}
